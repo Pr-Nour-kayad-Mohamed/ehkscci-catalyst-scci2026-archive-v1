@@ -1,0 +1,10 @@
+{
+  "edge": [
+    2,
+    3
+  ],
+  "pair_distance": 3,
+  "r_max": 2,
+  "reason": "Transport pair distance exceeds selected radius policy",
+  "status": "EXCLUDED"
+}

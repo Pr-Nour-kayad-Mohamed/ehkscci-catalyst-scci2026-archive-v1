@@ -1,0 +1,13 @@
+{
+  "alpha": 0.5,
+  "curvature": -0.3333333333333337,
+  "edge": [
+    2,
+    3
+  ],
+  "expected_curvature": -0.3333333333333333,
+  "pair_distance": 3,
+  "r_max": 3,
+  "status": "PASS",
+  "tolerance": 1e-09
+}

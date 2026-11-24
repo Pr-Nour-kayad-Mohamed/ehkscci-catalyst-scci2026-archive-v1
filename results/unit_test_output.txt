@@ -1,0 +1,14 @@
+test_01_csv_loads_seven_edges (test_validate_scci.SCCIValidatorTests.test_01_csv_loads_seven_edges) ... ok
+test_02_adjacency_contains_all_nodes (test_validate_scci.SCCIValidatorTests.test_02_adjacency_contains_all_nodes) ... ok
+test_03_bridge_edge_is_present (test_validate_scci.SCCIValidatorTests.test_03_bridge_edge_is_present) ... ok
+test_04_bridge_distance_is_one (test_validate_scci.SCCIValidatorTests.test_04_bridge_distance_is_one) ... ok
+test_05_transport_pair_distance_is_three (test_validate_scci.SCCIValidatorTests.test_05_transport_pair_distance_is_three) ... ok
+test_06_r2_policy_excludes_bridge (test_validate_scci.SCCIValidatorTests.test_06_r2_policy_excludes_bridge) ... ok
+test_07_r3_policy_passes (test_validate_scci.SCCIValidatorTests.test_07_r3_policy_passes) ... ok
+test_08_bridge_curvature_is_negative_one_third (test_validate_scci.SCCIValidatorTests.test_08_bridge_curvature_is_negative_one_third) ... ok
+test_09_fail_closed_on_disconnected_graph (test_validate_scci.SCCIValidatorTests.test_09_fail_closed_on_disconnected_graph) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.006s
+
+OK
